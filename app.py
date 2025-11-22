@@ -1,5 +1,5 @@
 import streamlit as st
-import google.generative_ai as genai
+import google.generativeai as genai
 
 # 1. Konfiguracja strony
 st.set_page_config(page_title="Moja Aplikacja AI")
